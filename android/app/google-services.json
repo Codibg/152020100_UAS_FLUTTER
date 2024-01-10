@@ -1,0 +1,263 @@
+{
+  "project_info": {
+    "project_number": "385776101475",
+    "firebase_url": "https://algi-new-project-default-rtdb.firebaseio.com",
+    "project_id": "algi-new-project",
+    "storage_bucket": "algi-new-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776101475:android:e28b56a40974e01ed83056",
+        "android_client_info": {
+          "package_name": "com.cwd.tiktok_yt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f5gVXmnBrp15_naP94bhKfsK5nWl19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776101475-992muvrab31k0kckqplvrtjsse14e5cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twittclose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776101475:android:1d73c95725dd9485d83056",
+        "android_client_info": {
+          "package_name": "com.example.algi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f5gVXmnBrp15_naP94bhKfsK5nWl19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776101475-992muvrab31k0kckqplvrtjsse14e5cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twittclose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776101475:android:41f5fb427bb4f6a1d83056",
+        "android_client_info": {
+          "package_name": "com.example.exclose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f5gVXmnBrp15_naP94bhKfsK5nWl19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776101475-992muvrab31k0kckqplvrtjsse14e5cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twittclose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776101475:android:342d85379392e9b7d83056",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f5gVXmnBrp15_naP94bhKfsK5nWl19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776101475-992muvrab31k0kckqplvrtjsse14e5cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twittclose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776101475:android:6c396abdd43c37eed83056",
+        "android_client_info": {
+          "package_name": "com.example.threads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f5gVXmnBrp15_naP94bhKfsK5nWl19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776101475-992muvrab31k0kckqplvrtjsse14e5cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twittclose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776101475:android:195daa5d7e21c00ed83056",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f5gVXmnBrp15_naP94bhKfsK5nWl19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776101475-992muvrab31k0kckqplvrtjsse14e5cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twittclose"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385776101475:android:03cec778fabceb8ad83056",
+        "android_client_info": {
+          "package_name": "com.example.twittclose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2f5gVXmnBrp15_naP94bhKfsK5nWl19o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385776101475-pcisor87ls2t414uamr90gnejg2s4all.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "385776101475-992muvrab31k0kckqplvrtjsse14e5cv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twittclose"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
