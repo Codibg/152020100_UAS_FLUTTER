@@ -15,10 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # 152020100_ALGIFZ_UAS_FLUTTER
-# 152020100_ALGIFZ_UAS_FLUTTER
-# 152020100_ALGIFZ_UAS_FLUTTER
-# 152020105_LUKMANADHARI_UAS_FLUTTER
-# 152020105_LUKMANADHARI_UAS_FLUTTER
-# 152020105_LUKMANADHARI_UAS_FLUTTER
-# 152020105_LUKMANADHARI_UAS_FLUTTER
-# 152020100_UAS_FLUTTER
+
